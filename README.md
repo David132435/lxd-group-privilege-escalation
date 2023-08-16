@@ -2,7 +2,7 @@
 Script to elevate your privilege if you are in the group 'lxd'.
 
 ## How to execute
-1 -> Clone this repository with: ```git clone https://github.com/David132435/lxd-group-privilege-escalation/tree/main```  
+1 -> Clone this repository with: ```git clone https://github.com/David132435/lxd-group-privilege-escalation```  
 2 -> Navigate to the folder: ```cd lxd-group-privilege-escalation```  
 3 -> Give the script execute permission: ```chmod +x lxdprivesc.sh```  
 4 -> Execute the script and see help: ```./lxdprivesc.sh```
